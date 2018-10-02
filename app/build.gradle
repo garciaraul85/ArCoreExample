@@ -50,17 +50,6 @@ sceneform.asset('sampledata/Couch.obj',
         'sampledata/Couch.sfa',
         'src/main/assets/Couch')
 
-
-sceneform.asset('sampledata/furniture/tv/TV_01.obj',
-        'default',
-        'sampledata/furniture/tv/TV_01.sfa',
-        'src/main/assets/TV_01')
-
-sceneform.asset('sampledata/furniture/table/Table_01.obj',
-        'default',
-        'sampledata/furniture/table/Table_01.sfa',
-        'src/main/assets/Table_01')
-
 sceneform.asset('sampledata/furniture/oven/Oven_01.obj',
         'default',
         'sampledata/furniture/oven/Oven_01.sfa',
@@ -75,8 +64,3 @@ sceneform.asset('sampledata/furniture/bed/Bed_01.obj',
         'default',
         'sampledata/furniture/bed/Bed_01.sfa',
         'src/main/assets/Bed_01')
-
-sceneform.asset('sampledata/furniture/stool/Stool_01.obj',
-        'default',
-        'sampledata/furniture/stool/Stool_01.sfa',
-        'src/main/assets/Stool_01')
