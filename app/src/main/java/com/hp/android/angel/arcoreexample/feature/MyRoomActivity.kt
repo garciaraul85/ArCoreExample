@@ -43,8 +43,8 @@ class MyRoomActivity : AppCompatActivity() {
         // Change this string to point to the .sfb file of your choice :)
         tvActionButton.setOnClickListener { addObject(Uri.parse("Bed_01.sfb")) }
         ovenActionButton.setOnClickListener { addObject(Uri.parse("Oven_01.sfb")) }
-        tableActionButton.setOnClickListener { addObject(Uri.parse("fireplace.sfb")) }
-        couchActionButton.setOnClickListener { addObject(Uri.parse("Couch.sfb")) }
+        tableActionButton.setOnClickListener { addObject(Uri.parse("Table.sfb")) }
+        couchActionButton.setOnClickListener { addObject(Uri.parse("CHAHIN_WOODEN_CHAIR.sfb")) }
         showFab(false)
     }
 

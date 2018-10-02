@@ -64,3 +64,13 @@ sceneform.asset('sampledata/furniture/bed/Bed_01.obj',
         'default',
         'sampledata/furniture/bed/Bed_01.sfa',
         'src/main/assets/Bed_01')
+
+sceneform.asset('sampledata/furniture/chair/CHAHIN_WOODEN_CHAIR.obj',
+        'default',
+        'sampledata/furniture/chair/CHAHIN_WOODEN_CHAIR.sfa',
+        'src/main/assets/CHAHIN_WOODEN_CHAIR')
+
+sceneform.asset('sampledata/furniture/table/Table.obj',
+        'default',
+        'sampledata/furniture/table/Table.sfa',
+        'src/main/assets/Table')

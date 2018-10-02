@@ -193,7 +193,7 @@
     file: 'sampledata/furniture/fireplace/fireplace.obj',
     name: 'fireplace',
     recenter: 'root',
-    scale: 0.37441600000000003,
+    scale: 0.17441600000000003,
   },
   version: '0.52:1',
 }
